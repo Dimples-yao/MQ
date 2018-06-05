@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="mina_server_demo" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="IvyIDEA" module-name="mina_server_demo" />
+        </element>
       </element>
     </root>
   </artifact>
